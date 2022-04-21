@@ -1,0 +1,37 @@
+.result {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+  
+.card {
+  cursor: pointer;
+  margin: auto;
+  border-radius: 5px;
+  background-image: url('https://c.tenor.com/sVPUeDLK18QAAAAC/lightpink-light.gif');
+  color: black;
+}
+
+.flag{
+  height: 160px;
+  margin: 10px;
+  border: solid black 3px;
+}
+
+h1{
+  text-align: center;
+  margin: auto;
+  color: rgb(119, 44, 44);
+}
+
+body{
+  background-image: url('https://i.pinimg.com/originals/bd/b8/89/bdb8898836fdeca97eec1e8301663e68.png');
+  background-size: 100%;
+}
+
+button{
+  margin: auto;
+  position: relative;
+  left: 615px;
+}
